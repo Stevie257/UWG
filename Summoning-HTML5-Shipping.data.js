@@ -173,6 +173,6 @@ Module['FS_createPath']('/Summoning/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 85199364, "filename": "/Summoning/Content/Paks/Summoning-HTML5.pak"}], "remote_package_size": 85199364, "package_uuid": "3c8bfbf5-dad9-4b6b-8c3c-ee1bd0d1eb00"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 85199042, "filename": "/Summoning/Content/Paks/Summoning-HTML5.pak"}], "remote_package_size": 85199042, "package_uuid": "28544fcc-119e-42d8-9b40-b772808cc88f"});
 
 })();
