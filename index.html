@@ -1,6 +1,14 @@
 ﻿<!DOCTYPE html>
 
+<!--
+     HTML code used with Epic Games HTML5 projects
 
+     much of this is for UE4 development purposes.
+
+     to create a custom HTML file for your project:
+     - make a copy of this file - or make one from scratch
+     - and put it in: "your project folder"/Build/HTML/GameX.html.template
+-->
 
 <html lang="en">
 <head>
@@ -14,6 +22,7 @@
 
 	<link href="Summoning-HTML5-Shipping.css" rel="stylesheet">
 </head>
+<button id="fullscreen_request">Fullscreen</button>
 <body style="background-color:black;>
 
 <div class="wrapper" id="mainarea">
@@ -24,7 +33,8 @@
 	<canvas tabindex=0 id="canvas" class="emscripten" oncontextmenu="event.preventDefault()" style="display:none;">
 </div>
 
-<button id="fullscreen_request">Fullscreen</button>
+
+
 <script src="Summoning-HTML5-Shipping.UE4.js"></script>
 </body>
 </html>
